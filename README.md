@@ -1,4 +1,4 @@
-# novelio
+# Novelio
 
 A writing platform built especially for writing stories, poems, and novels.
 
